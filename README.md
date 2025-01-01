@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 this is my first repository project
 <br>
-author - bhavesh ramtekkar
+author - bhavesh (vjti)
